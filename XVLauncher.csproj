@@ -148,6 +148,7 @@
     <None Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </None>
+    <None Include="packages.config" />
     <None Include="ServerSide\get_id.php" />
     <None Include="ServerSide\last_ver.php" />
     <None Include="ServerSide\send_error.php" />
@@ -208,7 +209,6 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="packages.config" />
     <Content Include="Resources\s4.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

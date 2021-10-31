@@ -18,7 +18,7 @@
       <Value Profile="(Default)">30912785</Value>
     </Setting>
     <Setting Name="GameDirectory" Type="System.String" Scope="User">
-      <Value Profile="(Default)">PokemonTempestFiles</Value>
+      <Value Profile="(Default)">Pokemon Tempest</Value>
     </Setting>
     <Setting Name="SaveSelected" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>

@@ -85,7 +85,7 @@ namespace XVLauncher.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("PokemonTempestFiles")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Pokemon Tempest")]
         public string GameDirectory {
             get {
                 return ((string)(this["GameDirectory"]));

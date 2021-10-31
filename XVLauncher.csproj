@@ -178,6 +178,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Resource Include="LogoXVL.ico" />
+    <None Include="Resources\976.png" />
     <Content Include="Resources\s1.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

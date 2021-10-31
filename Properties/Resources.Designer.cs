@@ -106,7 +106,7 @@ namespace XVLauncher.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Game.exe.
+        ///   Looks up a localized string similar to Pokemon Tempest/Game.exe.
         /// </summary>
         internal static string Executable {
             get {
@@ -115,7 +115,7 @@ namespace XVLauncher.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to C:/Users/{username}/AppData/Local/Pokemon Tempest.
         /// </summary>
         internal static string InstallDirectory {
             get {

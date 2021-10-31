@@ -137,10 +137,10 @@ https://github.com/settings/tokens</comment>
     <value>#FF1B86FF</value>
   </data>
   <data name="Executable" xml:space="preserve">
-    <value>Game.exe</value>
+    <value>Pokemon Tempest/Game.exe</value>
   </data>
   <data name="InstallDirectory" xml:space="preserve">
-    <value />
+    <value>C:/Users/{username}/AppData/Local/Pokemon Tempest</value>
     <comment>The directory where the game will be stored. [Deprecated]</comment>
   </data>
   <data name="LauncherVersion" xml:space="preserve">
